@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mouad NAJOUI</h1>
-<h3 align="center">Senior Electronics Engineer & Team Lead</h3>
+<h1 align="center">Hi, I'm Mouad NAJOUI</h1>
+<h3 align="center">Senior Electronics Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouad-najoui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -31,13 +31,6 @@
 - **Automotive Protocols:** CAN, Ethernet, FlexRay, LIN, A2B.
 - **Software & CAD Tools:** AUTOSAR, Siemens NX (Capital Logic), CANalyzer, CAM350, ENOVIA PLM.
 - **Manufacturing & Quality Standards:** ISO 26262, IATF 16949, VDA 6.3, ASPICE, CMMI, Lean Manufacturing, TPM.
-
----
-
-### 🌟 Key Achievements
-- **Electric Vehicle Architecture:** Core Moroccan engineering team member behind the E/E design for FIAT's first all-electric tricycle in the MENA region.
-- **Global Process Standardization:** Built and streamlined schematic engineering onboarding across global teams (Morocco, Brazil, China), reducing onboarding duration by 40%.
-- **Process Automation & Quality:** Designed an automated Python-based monitoring system for PCB thermal validation prior to ICT testing, reducing test pin damages by 80%.
 
 ---
 
