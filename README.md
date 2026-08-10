@@ -1,16 +1,14 @@
 <h2 align="center">Hi, I'm Mouad NAJOUI</h2>
-<h1 align="center">Senior Electronics Engineer | Automotive Architecture EE | PCBA manufacturing | LabVIEW | Python | Embedded C</h1>
+<h1 align="center">Senior Electronics Engineer | Automotive Architect EE | Hardware/Software integration | PCBA manufacturing | LabVIEW | Python | Embedded C</h1>
 
 
 ---
 
 ### 🚀 About Me
-- 💼 **Senior Electronics Engineer & Team Lead** with 7 years of experience in the automotive industry.
+- 💼 **Senior Electronics Engineer** with 7 years of experience in the automotive industry.
 - 🏎️ Specialized in **E/E Architecture**, PCBA manufacturing, and automotive hardware/software integration.
 - 🌐 Proven track record leading multi-disciplinary, cross-functional engineering teams across Morocco, Brazil, and China.
-- 🎓 **Master’s Degree in Embedded Systems Engineering** from ENSAK (Thesis: *Cyberattacks in Connected Vehicles*).
-- 🏎️ Key contributor to major Stellantis projects, including the E/E architecture for FIAT’s first all-electric MENA tricycle.
-
+- 🎓 **Master’s Degree in Embedded Systems Engineering**.
 ---
 
 ### 🛠️ Languages & Tools
