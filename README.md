@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mouad NAJOUI</h1>
-<h2 align="center">Senior Electronics Engineer</h2>
+<h2 align="center">Hi, I'm Mouad NAJOUI</h2>
+<h1 align="center">Senior Electronics Engineer @ Capgemini Engineering | Automotive Architecture EE | PCBA manufacturing | LabVIEW | Python | Embedded C</h1>
 
 
 ---
